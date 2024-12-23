@@ -1,0 +1,106 @@
+{
+    "paragraphs": [
+        {
+            "id": "MgbNWCgHMh",
+            "content": "INPUT: 100",
+            "box": {
+                "x1": 19.085437357547097,
+                "y1": 30.40798497660685,
+                "x2": 81.90117070860812,
+                "y2": 40.97454283486393,
+                "rotation": 352.7756843059544,
+                "original_width": 2308,
+                "original_height": 2308,
+                "image_rotation": 0
+            },
+            "words": [
+                {
+                    "id": "Jn6gRqe3Px",
+                    "content": "INPUT",
+                    "box": {
+                        "x1": 25.60661103167362,
+                        "y1": 29.663406448923418,
+                        "x2": 36.67339194905777,
+                        "y2": 33.06856980811855,
+                        "rotation": 354.12260739335716,
+                        "original_width": 2308,
+                        "original_height": 2308,
+                        "image_rotation": 0
+                    },
+                    "characters": [
+                        {
+                            "id": "94b5c9EiNO",
+                            "content": "I",
+                            "box": {
+                                "x1": 26.31184973441784,
+                                "y1": 29.985687205916566,
+                                "x2": 27.048437883008887,
+                                "y2": 32.6943398780036,
+                                "rotation": 353.1402399944746,
+                                "original_width": 2308,
+                                "original_height": 2308,
+                                "image_rotation": 0
+                            }
+                        },
+                        {
+                            "id": "tkGyKDiHmA",
+                            "content": "N",
+                            "box": {
+                                "x1": 27.115551147526695,
+                                "y1": 29.77495278807129,
+                                "x2": 29.066164878136583,
+                                "y2": 32.48360546015832,
+                                "rotation": 353.1402399944743,
+                                "original_width": 2308,
+                                "original_height": 2308,
+                                "image_rotation": 0
+                            }
+                        },
+                        {
+                            "id": "1WnQLEP4I9",
+                            "content": "P",
+                            "box": {
+                                "x1": 29.20400074131426,
+                                "y1": 29.623371769167356,
+                                "x2": 31.25494508651105,
+                                "y2": 32.33202444125439,
+                                "rotation": 353.1402399944743,
+                                "original_width": 2308,
+                                "original_height": 2308,
+                                "image_rotation": 0
+                            }
+                        },
+                        {
+                            "id": "nBfluu298H",
+                            "content": "U",
+                            "box": {
+                                "x1": 31.35981967683693,
+                                "y1": 29.252840389624403,
+                                "x2": 33.41076402203372,
+                                "y2": 31.96149306171144,
+                                "rotation": 353.1402399944743,
+                                "original_width": 2308,
+                                "original_height": 2308,
+                                "image_rotation": 0
+                            }
+                        },
+                        {
+                            "id": "85sghuDDj0",
+                            "content": "T",
+                            "box": {
+                                "x1": 33.41458459975697,
+                                "y1": 29.050732364419158,
+                                "x2": 35.686935226015805,
+                                "y2": 31.759385036506192,
+                                "rotation": 353.14023999447426,
+                                "original_width": 2308,
+                                "original_height": 2308,
+                                "image_rotation": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

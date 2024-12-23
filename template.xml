@@ -1,0 +1,29 @@
+<View>
+  <Image name="image" value="$ocr" />
+
+  <!-- Paragraph, Word, and Character Annotations -->
+  <Labels name="label" toName="image">
+    <Label value="Paragraph" background="#FFD700" />
+    <Label value="Word" background="#ADFF2F" />
+    <Label value="Character" background="#00BFFF" />
+  </Labels>
+  
+  <Rectangle name="bbox" toName="image" strokeWidth="3"/>
+  <Polygon name="poly" toName="image" strokeWidth="3"/>
+
+  <!-- Transcription for Recognized Text -->
+  <TextArea
+    name="transcription"
+    toName="image"
+    editable="true"
+    perRegion="true"
+    required="true"
+    maxSubmissions="1"
+    rows="5"
+    placeholder="Recognized Text"
+    displayMode="region-list"
+  />
+
+  <!-- Relations for Hierarchical Annotation -->
+  <Relations name="relations" toName="label" />
+</View>
