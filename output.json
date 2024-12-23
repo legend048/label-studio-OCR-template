@@ -1,106 +1,89 @@
-{
-    "paragraphs": [
-        {
-            "id": "MgbNWCgHMh",
-            "content": "INPUT: 100",
-            "box": {
-                "x1": 19.085437357547097,
-                "y1": 30.40798497660685,
-                "x2": 81.90117070860812,
-                "y2": 40.97454283486393,
-                "rotation": 352.7756843059544,
-                "original_width": 2308,
-                "original_height": 2308,
-                "image_rotation": 0
+[
+    {
+        "file_name": "b579fb66-Screenshot_2024-12-23_141656.png",
+        "paragraphs": [
+            {
+                "id": "NI62okU6CA",
+                "content": "Schodule I--Form No. 02:",
+                "box": {
+                    "x1": 1.438870319273709,
+                    "y1": 11.956710614432708,
+                    "x2": 15.260745810478731,
+                    "y2": 29.212253912995443,
+                    "rotation": 0,
+                    "original_width": 1583,
+                    "original_height": 136,
+                    "image_rotation": 0
+                },
+                "words": [
+                    {
+                        "id": "UWWngODkPx",
+                        "content": "Schodule",
+                        "box": {
+                            "x1": 1.6568809737091195,
+                            "y1": 13.986774531910678,
+                            "x2": 6.06069619330441,
+                            "y2": 27.18218999551748,
+                            "rotation": 0,
+                            "original_width": 1583,
+                            "original_height": 136,
+                            "image_rotation": 0
+                        },
+                        "characters": []
+                    }
+                ]
             },
-            "words": [
-                {
-                    "id": "Jn6gRqe3Px",
-                    "content": "INPUT",
-                    "box": {
-                        "x1": 25.60661103167362,
-                        "y1": 29.663406448923418,
-                        "x2": 36.67339194905777,
-                        "y2": 33.06856980811855,
-                        "rotation": 354.12260739335716,
-                        "original_width": 2308,
-                        "original_height": 2308,
-                        "image_rotation": 0
-                    },
-                    "characters": [
-                        {
-                            "id": "94b5c9EiNO",
-                            "content": "I",
-                            "box": {
-                                "x1": 26.31184973441784,
-                                "y1": 29.985687205916566,
-                                "x2": 27.048437883008887,
-                                "y2": 32.6943398780036,
-                                "rotation": 353.1402399944746,
-                                "original_width": 2308,
-                                "original_height": 2308,
-                                "image_rotation": 0
-                            }
+            {
+                "id": "PeT-mB4Pwt",
+                "content": "S. & Settlement Manual, 1927",
+                "box": {
+                    "x1": 0.7254304526338282,
+                    "y1": 28.573887115730894,
+                    "x2": 16.162590484681694,
+                    "y2": 45.123729444980356,
+                    "rotation": 0,
+                    "original_width": 1583,
+                    "original_height": 136,
+                    "image_rotation": 0
+                },
+                "words": [
+                    {
+                        "id": "Wk3WP8ZyIg",
+                        "content": "S. & Settlement ",
+                        "box": {
+                            "x1": 0.9285509793713003,
+                            "y1": 30.262646537082883,
+                            "x2": 8.908285958343411,
+                            "y2": 42.759466255087574,
+                            "rotation": 0,
+                            "original_width": 1583,
+                            "original_height": 136,
+                            "image_rotation": 0
                         },
-                        {
-                            "id": "tkGyKDiHmA",
-                            "content": "N",
-                            "box": {
-                                "x1": 27.115551147526695,
-                                "y1": 29.77495278807129,
-                                "x2": 29.066164878136583,
-                                "y2": 32.48360546015832,
-                                "rotation": 353.1402399944743,
-                                "original_width": 2308,
-                                "original_height": 2308,
-                                "image_rotation": 0
-                            }
-                        },
-                        {
-                            "id": "1WnQLEP4I9",
-                            "content": "P",
-                            "box": {
-                                "x1": 29.20400074131426,
-                                "y1": 29.623371769167356,
-                                "x2": 31.25494508651105,
-                                "y2": 32.33202444125439,
-                                "rotation": 353.1402399944743,
-                                "original_width": 2308,
-                                "original_height": 2308,
-                                "image_rotation": 0
-                            }
-                        },
-                        {
-                            "id": "nBfluu298H",
-                            "content": "U",
-                            "box": {
-                                "x1": 31.35981967683693,
-                                "y1": 29.252840389624403,
-                                "x2": 33.41076402203372,
-                                "y2": 31.96149306171144,
-                                "rotation": 353.1402399944743,
-                                "original_width": 2308,
-                                "original_height": 2308,
-                                "image_rotation": 0
-                            }
-                        },
-                        {
-                            "id": "85sghuDDj0",
-                            "content": "T",
-                            "box": {
-                                "x1": 33.41458459975697,
-                                "y1": 29.050732364419158,
-                                "x2": 35.686935226015805,
-                                "y2": 31.759385036506192,
-                                "rotation": 353.14023999447426,
-                                "original_width": 2308,
-                                "original_height": 2308,
-                                "image_rotation": 0
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}
+                        "characters": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "eb06677b-temp_2.jpg",
+        "paragraphs": [
+            {
+                "id": "wYC9AQA0jM",
+                "content": "SUPERVOOC",
+                "box": {
+                    "x1": 36.30400768819443,
+                    "y1": 13.957737503537732,
+                    "x2": 60.43389625567577,
+                    "y2": 18.20227211902241,
+                    "rotation": 355.31955638174753,
+                    "original_width": 2308,
+                    "original_height": 2308,
+                    "image_rotation": 0
+                },
+                "words": []
+            }
+        ]
+    }
+]
